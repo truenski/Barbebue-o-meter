@@ -1,4 +1,4 @@
-# Barbebue-o-meter :cut_of_meat:
+# Barbecue-o-meter :cut_of_meat:
 É uma calculadora simples , feita com html, javascript e css. através de um cálculo que leva em conta o número de adultos, crianças e duração, para assim determinar as quantidades de carne,cerveja e refrigerante necessários para organizar um churrasco.
 
 ## base das regras do projeto
