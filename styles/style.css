@@ -43,7 +43,9 @@ button {
     transition-duration: 1s;
 }
 
-button:hover {
+
+
+button:hover {cursor: pointer;
     background-color: #c26464;
 }
 
